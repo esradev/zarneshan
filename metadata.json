@@ -1,0 +1,6 @@
+{
+  "name": "زرنشان | ZARNESHAN Haute Joaillerie",
+  "description": "گالری تخصصی و بوتیک آنلاین طلا و جواهرات لوکس با نرخ لحظه‌ای طلا و نقره، فیلترهای پیشرفته وزن و عیار، و محاسبه‌گر دقیق اجرت ساخت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
